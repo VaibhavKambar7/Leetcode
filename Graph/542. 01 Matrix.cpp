@@ -116,7 +116,7 @@ public:
 
 //DP - optimal
 //tc (n x m)
-//tc O(1)
+//sc O(1)
 
 
 
